@@ -28,7 +28,7 @@ export const routes: Routes = [
     data: {
       title: 'Page 500'
     }
-  },
+  }, 
   {
     path: 'login',
     component: LoginComponent,
